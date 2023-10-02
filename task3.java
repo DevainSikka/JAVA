@@ -6,14 +6,8 @@ public class task3 {
         do{
         System.out.println("Enter number ");
         a = sc.nextInt();
-        if(a>0){
-            continue;
-        } 
         
-        else {
-            System.out.print("bye bye user");
-            break;
-        }
-        }while(true);
+        }while(a>0);
+        System.out.print("bye bye user");
     }
 }
