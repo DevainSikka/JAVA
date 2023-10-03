@@ -8,7 +8,7 @@ public class SmallestNumber{
             num[i] = sc.nextDouble();
         } 
         double smallest = num[0];
-
+                                                        
     if (num[1] < smallest) {
         smallest = num[1];
     }
