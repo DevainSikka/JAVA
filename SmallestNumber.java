@@ -16,7 +16,7 @@ public class SmallestNumber{
             }
         }
     }
-        double smallest = num[0];
+       // double smallest = num[0];
         System.out.println("smallest number is" + num[0]);
         System.out.println("final series is"+ num[0]+","+num[1]+","+num[2]);
     }

@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 public class Square extends Rectangle{
     // s = side
     //Scanner sc = new Scanner(System.in);

@@ -11,6 +11,5 @@ public class Area{
         rectangle.calculate();
         circle.getDimensions();
         circle.calculate();
-        
     } 
 }
