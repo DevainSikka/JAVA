@@ -14,7 +14,7 @@ public class FileHandling {
             FileReader fr=new FileReader(file);
             int i;
             while (( i = fr.read())!=-1) {
-                System.out.println((char)i);    
+                System.out.print((char)i);    
             }
                 
             
